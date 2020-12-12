@@ -1,0 +1,26 @@
+keyword,tag
+1048640,Patient's Sex
+1052688,Patient's Age
+1052704,Patient's Size
+1052720,Patient's Weight
+2621444,Photometric Interpretation
+2621456,Rows
+2621457,Columns
+2621488,Pixel Spacing
+2621492,Pixel Aspect Ratio
+2621696,Bits Allocated
+2621697,Bits Stored
+2621698,High Bit
+2621699,Pixel Representation
+2621702,Smallest Image Pixel Value
+2621703,Largest Image Pixel Value
+2625616,Window Center
+2625617,Window Width
+2625618,Rescale Intercept
+2625619,Rescale Slope
+2145386512,Pixel Data
+2629904,Lossy Image Compression
+2629906,Image Compression Ratio
+2629908,Lossy Image Compression Method
+2621442,Samples per Pixel
+2621448,Number of Frames
