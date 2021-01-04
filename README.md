@@ -29,3 +29,5 @@ If you use the VinDr-CXR dataset in your work, the authors must cite [the origin
 We also encourage such authors to release their code and models, which will help the community to reproduce experiments and to boost the research in the field of medical imaging.
 
 
+
+
