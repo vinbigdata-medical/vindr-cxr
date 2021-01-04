@@ -13,9 +13,18 @@ This repository is intended to support use of the VinDr-CXR data. We provide cod
 
 # Citation
 
-If you use the VinDr-CXR dataset in your work, the authors must cite this original paper as follows:
+If you use the VinDr-CXR dataset in your work, the authors must cite [the original paper](https://arxiv.org/abs/2012.15029) as follows:
 
-Ha Q. Nguyen et al. “VinDr-CXR: An open dataset of chest X-rays with radiologist’s annotations” – A preprint available at https://arxiv.org
+```
+@misc{nguyen2020vindrcxr,
+      title={VinDr-CXR: An open dataset of chest X-rays with radiologist's annotations}, 
+      author={Ha Q. Nguyen and Khanh Lam and Linh T. Le and Hieu H. Pham and Dat Q. Tran and Dung B. Nguyen and Dung D. Le and Chi M. Pham and Hang T. T. Tong and Diep H. Dinh and Cuong D. Do and Luu T. Doan and Cuong N. Nguyen and Binh T. Nguyen and Que V. Nguyen and Au D. Hoang and Hien N. Phan and Anh T. Nguyen and Phuong H. Ho and Dat T. Ngo and Nghia T. Nguyen and Nhan T. Nguyen and Minh Dao and Van Vu},
+      year={2020},
+      eprint={2012.15029},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+```
 
 We also encourage such authors to release their code and models, which will help the community to reproduce experiments and to boost the research in the field of medical imaging.
 
